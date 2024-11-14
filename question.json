@@ -1,0 +1,24 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Count the candies by 5s. How many candies are there in total?<br><img width='70%' src='./images/44.png'>",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "count the rockets by 10s and find the total number of rockets.<br><img width='70%' src='./images/45.png'>",
+        "options": [
+            "40",
+            "50",
+            "60",
+            "30"
+        ],
+        "correct": 0
+    }
+]
